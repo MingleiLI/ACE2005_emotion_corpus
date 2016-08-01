@@ -5,6 +5,6 @@ CNN_IP_20030402.1600.00-3 joy
 This example means the file name in ACE 2005 Multilingual Training Corpus is "CNN_IP_20030402.1600.00-3" and its emotion label is "joy"
 
 Note: Since the "ACE 2005 Multilingual Training Corpus" is under the license of "LDC User Agreement for Non-Members", the corpus cannot be directly provided. The data can be found at https://catalog.ldc.upenn.edu/LDC2006T06. 
-If the user have the license, we can provide the data. Please contact:
+For any information, please contact:
 Ming-lei LI: csmli@comp.polyu.edu.hk
 Da WANG: danwang.km@connect.polyu.hk
